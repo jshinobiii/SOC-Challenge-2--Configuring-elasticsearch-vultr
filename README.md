@@ -4,7 +4,7 @@
 The lab's objective is to set up a cloud-based environment, including the deployment and configuration of Elasticsearch.
 
 ### Skills Learned
--Virtual Machine Deployment: Setting up a cloud-based environment using Vulture and configuring a VPC.
+-Virtual Machine Deployment: Setting up a cloud-based environment using Vultr and configuring a VPC (Virtual Private Cloud).
 
 -Linux Server Management: Managing an Ubuntu server via SSH, including updating, upgrading, and installing packages.
 
